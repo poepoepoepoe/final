@@ -3,4 +3,4 @@
 *クラス* *:SD2B*  
 *氏名* *:吉本海音*  
 *システム名* *:国名情報システム*  
-*URL* 
+*URL* *https://aso2201214.boo.jp/php2/final/main/index.html*
